@@ -4,22 +4,21 @@ description: "front matter will be preserved as is"
 date: 2020-07-14
 ---
 
-Some preface text here  
+Some preface text here.
 
 <!--more-->
 
-Koh Samui is beautiful island in Thailand.
+Koh Samui is a beautiful island in Thailand.
 
-Its known for its palm fringed beaches coconut groves and dense mountainous rainforest. Plus luxury resorts and 
-posh spas.
+It's known for its palm-fringed beaches, coconut groves, and dense mountainous rainforest. Plus luxury resorts and posh spas.
 
-Big Budha statue at Wat Phra Yai Temple is located on tiny island connected to Samui by causeway.
-
----
-
-To the north the sandy beach of Bophut has fishermans vilage with a lots of restaurants and bar.
+Big Buddha statue at Wat Phra Yai Temple is located on a tiny island connected to Samui by a causeway.
 
 ---
 
-Norheast of island the Ang Thong Marine National Park features laggons and corall refs.
+To the north, the sandy beach of Bophut has a fisherman's village with lots of restaurants and bars.
+
+---
+
+Northeast of the island, the Ang Thong Marine National Park features lagoons and coral reefs.
 
