@@ -2,6 +2,8 @@
 
 This is a Python script that takes in a markdown file, parses the content, and uses OpenAI's GPT-3.5-turbo model to fix the grammar and punctuation of the text content while keeping markdown and HTML tags as is.
 
+![demo.png](demo.png)
+
 ## Requirements
 
 - Python 3.6 or higher

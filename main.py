@@ -47,7 +47,8 @@ def main(input_path, output_path=None):
 
 def fix_paragraph(paragraph):
     openai.api_key = os.environ.get('OPENAI_API_KEY')
-    system_msg = "You only fixes the grammar and punctuation of provided text. Keep markdown and HTML tags as is."
+    system_msg = ("You only fixes the grammar and punctuation of provided text. "
+                  "Keep markdown, linebreaks and HTML tags as is.")
     completion = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
